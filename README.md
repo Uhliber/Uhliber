@@ -1,6 +1,6 @@
 <img align="right" src="https://api.visitorbadge.io/api/VisitorHit?user=Uhliber&countColor=%23f2cc8e" />
 
-![banner](https://github.com/Uhliber/Uhliber/assets/75675306/4d78c692-80b0-4086-b602-2138e827602a)
+![banner](https://github.com/Uhliber/Uhliber/assets/75675306/379ee9ce-9411-40cd-8714-ed4264a623fd)
 <p align="center">
   <img src="https://img.shields.io/github/stars/Uhliber?label=Stars&color=%23ffc566" />
   <img src="https://img.shields.io/github/followers/Uhliber?label=Followers&color=%23ffc566" />
