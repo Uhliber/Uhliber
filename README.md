@@ -1,6 +1,4 @@
-<a href="#">
-  <img align="right" src="https://api.visitorbadge.io/api/VisitorHit?user=Uhliber&countColor=%23f2cc8e" />
-</a>
+<img align="right" src="https://api.visitorbadge.io/api/VisitorHit?user=Uhliber&countColor=%23f2cc8e" />
 
 ![banner](https://github.com/Uhliber/Uhliber/assets/75675306/4d78c692-80b0-4086-b602-2138e827602a)
 <p align="center">
